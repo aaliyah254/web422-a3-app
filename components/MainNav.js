@@ -8,9 +8,9 @@
 * 
 *  Name: Aaliyah Salat Student ID: 161973185 Date: 01/12/2025
 *
-*  Vercel App (Deployed) Link: https://web422-a3-user-api-nu.vercel.app/
+*  Vercel App (Deployed) Link: https://web422-a3-app.vercel.app/login
 *
-********************************************************************************/ 
+********************************************************************************/  
 
 import Link from 'next/link';
 import { Container, Nav, Navbar, NavDropdown } from 'react-bootstrap';
