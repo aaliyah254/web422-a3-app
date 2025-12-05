@@ -59,7 +59,7 @@ export default function BookDetails({ book, workId, showFavouriteBtn = true }) {
       }
     } catch (err) {
       console.error('Favourites update failed:', err);
-      // Optional: surface a toast/alert here
+
     }
   }
 
